@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<characters>
+	<character>
+		<name>Barbie®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Chelsea®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Madison®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Nolee®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Kenzie®</name>
+		<gender>girl</gender>
+	</character>
+	<boys>
+	</boys>
+	<girls>
+		<accessories1 	required="0">4</accessories1>
+		<accessories2 	required="0">4</accessories2>
+		<accessories3 	required="0">0</accessories3>
+		<tops 		required="1">4</tops>
+		<bottoms	required="1">4</bottoms>
+		<shoes		required="1">4</shoes>
+		<outfits	required="0">0</outfits>
+		<saying>Both the girls look brilliant!</saying>
+		<saying>Whoa! The girls' costumes rock!</saying>
+		<saying>The girls LOVE dressing up!</saying>
+		<saying>Ready for the costume party?</saying>
+		<saying>Let's get this party started!</saying>
+	</girls>
+</characters>

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<themes>
+	<theme>
+		<title>Masquerade Madness™</title>
+		<titleColor>0xEFDCEF</titleColor>
+		<iconPath>themes/masquerade/masquerade_icon.swf</iconPath>
+		<charactersPath>themes/masquerade/masquerade_characters.swf</charactersPath>
+		<xmlPath>themes/masquerade/masquerade.xml</xmlPath>
+		<assetsPath>themes/masquerade/masquerade_assets.swf</assetsPath>
+	</theme>
+	<theme>
+		<title>Club Birthday™</title>
+		<titleColor>0xEFDCEF</titleColor>
+		<iconPath>themes/birthday/birthday_icon.swf</iconPath>
+		<charactersPath>themes/birthday/birthday_characters.swf</charactersPath>
+		<xmlPath>themes/birthday/birthday.xml</xmlPath>
+		<assetsPath>themes/birthday/birthday_assets.swf</assetsPath>
+	</theme>
+	<theme banner="themes/daynight/daynite_banner.swf">
+		<title>Day &amp; Nite™</title>
+		<titleColor>0xEFDCEF</titleColor>
+		<iconPath>themes/daynight/daynight_icon.swf</iconPath>
+		<charactersPath>themes/daynight/daynight_characters.swf</charactersPath>
+		<xmlPath>themes/daynight/daynight.xml</xmlPath>
+		<assetsPath>themes/daynight/daynight_assets.swf</assetsPath>
+	</theme>
+	<theme banner="themes/daynight/daynite_banner.swf">
+		<title>Secret Locker™</title>
+		<titleColor>0xEFDCEF</titleColor>
+		<iconPath>themes/secretlocker/secretlocker_icon.swf</iconPath>
+		<charactersPath>themes/secretlocker/secretlocker_characters.swf</charactersPath>
+		<xmlPath>themes/secretlocker/secretlocker.xml</xmlPath>
+		<assetsPath>themes/secretlocker/secretlocker_assets.swf</assetsPath>
+	</theme>
+	<theme banner="themes/bling/bling_banner.swf">
+		<title>My Bling Bling™</title>
+		<titleColor>0xEFDCEF</titleColor>
+		<iconPath>themes/bling/bling_icon.swf</iconPath>
+		<charactersPath>themes/bling/bling_characters.swf</charactersPath>
+		<xmlPath>themes/bling/bling.xml</xmlPath>
+		<assetsPath>themes/bling/bling_assets.swf</assetsPath>
+		<shopUrl>/shop/shop.aspx?id=bling</shopUrl>
+	</theme>
+	<theme banner="themes/bling/bling_banner.swf">
+		<title>Mall Maniacs™</title>
+		<titleColor>0xEFDCEF</titleColor>
+		<iconPath>themes/mall/mall_icon.swf</iconPath>
+		<charactersPath>themes/mall/mall_characters.swf</charactersPath>
+		<xmlPath>themes/mall/mall.xml</xmlPath>
+		<assetsPath>themes/mall/mall_assets.swf</assetsPath>
+		<shopUrl>/shop/shop.aspx?id=mallmaniacs</shopUrl>
+	</theme>
+
+	<theme>
+		<title>Fab Faces™</title>
+		<titleColor>0xEFDCEF</titleColor>
+		<iconPath>themes/fabfaces/fabfaces_icon.swf</iconPath>
+		<charactersPath>themes/fabfaces/fabfaces_characters.swf</charactersPath>
+		<xmlPath>themes/fabfaces/fabfaces.xml</xmlPath>
+		<assetsPath>themes/fabfaces/fabfaces_assets.swf</assetsPath>
+		<shopUrl>/shop/shop.aspx?id=fabfaces</shopUrl>
+	</theme>
+	<theme isFeatured="true" banner="themes/generic_gamebanner.swf">
+		<title>Un-fur-gettable™</title>
+		<titleColor>0xEFDCEF</titleColor>
+		<iconPath>themes/unfurgettable/unfurgettable_icon.swf</iconPath>
+		<charactersPath>themes/unfurgettable/unfurgettable_characters.swf</charactersPath>
+		<xmlPath>themes/unfurgettable/unfurgettable.xml</xmlPath>
+		<assetsPath>themes/unfurgettable/assets_unfurgettable4.swf</assetsPath>
+		<shopUrl>/shop/shop.aspx?id=unfurgettable</shopUrl>
+	</theme>	
+</themes>

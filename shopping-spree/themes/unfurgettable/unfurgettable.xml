@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<characters>
+	<!--
+		**** EDITED IN NOTEPAD AND SAVED AS UNICODE IN ORDER TO SHOW SPECIAL CHARACTERS IN FLASH ****
+ 
+		The order of these character tags MUST be in the same order as the frame order in the source FLA for characters
+		
+		The order of these character tags MUST also be in the same order as the frame order in the source FLA 
+		for the character selection (heads)
+		
+		The order of these character tags determines which data is associated 
+		with the order the images appear in the above FLAs
+
+		All tags are required.
+
+		If you wish to omit a character, simply remove his or her name as follows: <name></name>
+		
+		Valid values for showOutfits are true and false. 
+		If value is false it will show the top/bottom clothing selection button, otherwise will show the outfit button
+	-->
+	<character>
+		<name>Kennedy®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Chelsea®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Madison®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Nolee®</name>
+		<gender>girl</gender>
+	</character>	
+	<!--
+		The number of clothing in each category for boys and girls is specified below.
+		The clothing number indicates how many buttons and hangers to enable -
+		If you set a number less than the actual number will still deactivate the 
+		button and hanger but the asset will continue to show up until it is removed
+	
+		The current total clothing limits are:
+		accessories1		1..5
+		accessories2		0..5
+		accessories3		0..5
+		tops			0..5
+		bottoms			0..5
+		shoes			1..6
+		outfits			0..5
+
+		required		0 or 1 
+					0 means that this item is not required to be shown on the character at the end screen
+					1 means that this item is a required item of clothing that will be show on the character at the end screen
+		
+		All tags are required
+		
+		If outfits is 0, then tops and bottoms will be used, 
+		otherwise outfits will be shown and tops and bottoms will not be considered
+	-->	
+	<girls>
+		<accessories1 	required="1">4</accessories1>
+		<accessories2 	required="1">4</accessories2>
+		<accessories3 	required="0">0</accessories3>
+		<tops 		required="1">4</tops>
+		<bottoms	required="1">4</bottoms>
+		<shoes		required="1">4</shoes>
+		<outfits	required="0">0</outfits>
+		<extras		required="0">0</extras>
+		<saying>This outfit sooo belongs in a fashion mag!</saying>
+		<saying>I’m diggin’ this fluffy-fabulous look!</saying>
+		<saying>Fluffy ‘n fabulous is the hot new look!</saying>
+		<saying>This fuzzy look is sooo fab and totally me!</saying>
+		<saying>My outfit is fluffy, flirty, and totally cute!</saying>
+		<saying>I love being decked out in cute, fuzzy finds!</saying>
+		<saying>We're all about fuzzy, flirty glam!</saying>
+		<saying>I'm totally rockin' the super-soft trend!</saying>
+		<saying>Don't you feel like a fashion queen?</saying>
+		<saying>I'm ready for a super-glam night out!</saying>
+	</girls>
+</characters>

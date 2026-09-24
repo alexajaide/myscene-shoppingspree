@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<characters>
+
+	<character>
+		<name>Barbie®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Chelsea®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Madison®</name>
+		<gender>girl</gender>
+	</character>
+	<character>
+		<name>Nolee®</name>
+		<gender>girl</gender>
+	</character>	
+
+	<girls>
+		<accessories1 	required="1">4</accessories1>
+		<accessories2 	required="1">4</accessories2>
+		<accessories3 	required="0">0</accessories3>
+		<tops 		required="1">4</tops>
+		<bottoms	required="1">4</bottoms>
+		<shoes		required="1">4</shoes>
+		<outfits	required="0">0</outfits>
+		<extras		required="1">4</extras>
+
+		<saying>Express yourself...and your style!</saying>
+		<saying>You gotta feel glam to look glam!</saying>
+		<saying>Sparkly fashions make me happy!</saying>
+		<saying>Cute outfits cheer me up when I'm down!</saying>
+		<saying>When I'm lookin' good, I'm feelin' good!</saying>
+		<saying>Wearing a frown is a fashion don't!</saying>
+		<saying>Show off your inner style queen!</saying>
+		<saying>I've got fashion attitude!</saying>
+		<saying>Every girl should feel like a diva!</saying>
+		<saying>The secret to hot looks is a fab smile!</saying>
+	</girls>
+
+</characters>
